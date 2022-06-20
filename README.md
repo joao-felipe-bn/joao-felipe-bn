@@ -1,5 +1,5 @@
 Hi, I’m @joao-felipe-bn
-I’m interested in FullStack, Java / Spring / API / NodeJs / etc...
+I’m interested in FullStack, Java / Spring / API / NodeJs / Ruby On Rails, etc...
 
 - 📫 jfbnfelipe.jfbn@gmail.com
 
